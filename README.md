@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahya Farooqui</h1>
-![qIZMt-o2RIk(1)](https://user-images.githubusercontent.com/84168130/214998510-e337d3f5-baa6-47f3-9019-c2f52ef1f7e3.png)
+![Screenshot (2464)](https://user-images.githubusercontent.com/84168130/214998734-64531d1f-3c57-435c-a9c2-613044432f94.png)
+
 
 <h1 align="center">Hi 👋, I'm Yahya Farooqui</h1>
 <h3 align="center">A technology enthusiast and mechanical engineering student</h3>
