@@ -1,3 +1,5 @@
+![Screenshot (2464)](https://user-images.githubusercontent.com/84168130/214995506-b23558c2-fb93-4650-a93f-e1b40cbce9b9.png)
+
 <h1 align="center">Hi 👋, I'm Yahya Farooqui</h1>
 <h3 align="center">A technology enthusiast and mechanical engineering student</h3>
 
