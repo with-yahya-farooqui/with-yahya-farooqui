@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yahya Farooqui</h1>
 ![Screenshot (2464)](https://user-images.githubusercontent.com/84168130/214998734-64531d1f-3c57-435c-a9c2-613044432f94.png)
-
-
 <h1 align="center">Hi 👋, I'm Yahya Farooqui</h1>
+
 <h3 align="center">A technology enthusiast and mechanical engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=with-yahya-farooqui&label=Profile%20views&color=0e75b6&style=flat" alt="with-yahya-farooqui" /> </p>
